@@ -15,15 +15,10 @@ A deep-dive into the **Central Limit Theorem**.
 ---
 
 ### 🛠️ My Toolbox
-* **Languages:** Python (Pandas, Numpy, Matplotlib, Seaborn)
-* **DevOps & Tools:** Git, GitHub, Claude Code, Pytest
-* **Focus:** Data Analysis, Statistical Simulations, Clean Code Architecture
 
 ---
 
 ### 📊 GitHub Stats
-![Baris's GitHub stats](https://github-readme-stats.vercel.app/api?username=baris2828&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baris2828&layout=compact&theme=radical)
 
 ---
 
