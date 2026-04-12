@@ -28,5 +28,3 @@ A deep-dive into the **Central Limit Theorem**.
 ---
 
 ### 📫 Connect with me
-* 📧 [Your Email Here]
-* 💼 [Your LinkedIn Profile]
