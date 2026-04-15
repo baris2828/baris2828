@@ -41,6 +41,7 @@ End-to-end analytics case study for a simulated German injection-molding factory
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/-DAX-01A4EF?style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+...
 
 ---
 
