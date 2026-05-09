@@ -20,6 +20,7 @@
 | [**K-Means 3D Visualizer**](https://github.com/baris2828/kmeans-3d-visualizer) | Interactive 2D/3D clustering explorer with CSV upload, Elbow method & Silhouette scoring | Streamlit, Plotly, Scikit-Learn |
 | [**CLT Real-World Analysis**](https://github.com/baris2828/CLT-Real-World-Analysis) | Central Limit Theorem simulation on e-commerce transaction data with 2x2 statistical dashboard | NumPy, SciPy, Seaborn |
 | [**Haemorasis Reliability Eval**](https://github.com/baris2828/haemorasis-reliability-eval) | Evaluation framework for AI blood-cell analysis — Wilson CIs & Monte Carlo benchmarks at n=10,000 vs n=100 | SciPy, Matplotlib, Pillow |
+| [**Eniac A/B Test Optimization**](https://github.com/baris2828/eniac-ab-test-optimization) | Four-arm A/B test analysis with Chi-Square, Bonferroni correction & relative-lift framing | pandas, SciPy, Matplotlib |
 
 ### Engineering & Dashboards
 
@@ -39,7 +40,7 @@ ML / Stats      Scikit-Learn · SciPy · NumPy · Pandas
 Visualization   Matplotlib · Seaborn · Plotly · Streamlit · Power BI
 Backend         FastAPI · Docker · GCP Cloud Run
 Frontend        React · Next.js · Tailwind CSS
-Tools           Git · pytest · Ruff · Cloud Build
+Tools           Git · pytest · Ruff · Cloud Build · Jupyter
 ```
 
 ---
@@ -54,6 +55,9 @@ Tools           Git · pytest · Ruff · Cloud Build
 ---
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/baris-aydin-engineering/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="mailto:baris.aydin@mail.de">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
