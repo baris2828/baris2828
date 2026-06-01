@@ -32,7 +32,7 @@
 
 ---
 
-## Tech Stackon Github
+## Tech Stack on Github
 
 ```text
 Languages       Python · SQL · TypeScript · DAX
