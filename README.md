@@ -11,7 +11,7 @@
 
 ---
 
-## Featured Projects
+## Featured Projects on Github
 
 ### Machine Learning & Data Science
 
@@ -32,7 +32,7 @@
 
 ---
 
-## Tech Stack
+## Tech Stackon Github
 
 ```text
 Languages       Python · SQL · TypeScript · DAX
