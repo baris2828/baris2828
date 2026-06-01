@@ -43,16 +43,6 @@ Frontend        React · Next.js · Tailwind CSS
 Tools           Git · pytest · Ruff · Cloud Build · Jupyter
 ```
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baris2828&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baris2828&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
-</p>
-
----
 
 <p align="center">
   <a href="https://www.linkedin.com/in/baris-aydin-engineering/">
