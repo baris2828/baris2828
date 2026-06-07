@@ -96,7 +96,6 @@ A selection of work spanning machine learning, cloud services, and data visualiz
 | [**Predictive Maintenance Dashboard**](https://github.com/baris2828/predictive-maintenance-dashboard) | 87,600-row sensor simulation for a German factory with Power BI Key Influencers analysis | Python, Power BI, DAX |
 | [**Real-Time Analytics Dashboard**](https://github.com/baris2828/real-time-analytics-dashboard) | Full-stack live dashboard with auto-refreshing charts, KPI cards & dark/teal UI | FastAPI, Chart.js, WebSocket |
 
-> 📌 _Placeholder for future highlights — pin additional repositories here as the portfolio grows._
 
 ---
 
