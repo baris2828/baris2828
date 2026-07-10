@@ -83,9 +83,10 @@ A selection of work spanning machine learning, cloud services, and data visualiz
 
 | Project | Description | Stack |
 |---|---|---|
+| [**ConsultIQ**](https://github.com/baris2828/ConsultIQ) | Business-development cockpit for German IT consultancies — unsupervised ML builds ICPs & prioritises B2B leads · [▶ Live Demo](https://consultiq.streamlit.app/) | Streamlit, scikit-learn, Plotly, Pydeck |
 | [**K-Means 3D Visualizer**](https://github.com/baris2828/kmeans-3d-visualizer) | Interactive 2D/3D clustering explorer with CSV upload, Elbow method & Silhouette scoring | Streamlit, Plotly, Scikit-Learn |
 | [**CLT Real-World Analysis**](https://github.com/baris2828/CLT-Real-World-Analysis) | Central Limit Theorem simulation on e-commerce transaction data with 2x2 statistical dashboard | NumPy, SciPy, Seaborn |
-| [**Haemorasis Reliability Eval**](https://github.com/baris2828/haemorasis-reliability-eval) | Evaluation framework for AI blood-cell analysis — Wilson CIs & Monte Carlo benchmarks at n=10,000 vs n=100 | SciPy, Matplotlib, Pillow |
+| [**Haemorasis Reliability Eval**](https://github.com/baris2828/haemorasis-benchmark-framework) | Evaluation framework for AI blood-cell analysis — Wilson CIs & Monte Carlo benchmarks at n=10,000 vs n=100 | SciPy, Matplotlib, Pillow |
 | [**Eniac A/B Test Optimization**](https://github.com/baris2828/eniac-ab-test-optimization) | Four-arm A/B test analysis with Chi-Square, Bonferroni correction & relative-lift framing | pandas, SciPy, Matplotlib |
 
 ### Engineering & Dashboards
@@ -94,7 +95,6 @@ A selection of work spanning machine learning, cloud services, and data visualiz
 |---|---|---|
 | [**Green-AI API**](https://github.com/baris2828/green-ai-api) | REST API to estimate, compare & optimize cloud workload carbon footprints across AWS, GCP & Azure | FastAPI, Docker, Cloud Run |
 | [**Predictive Maintenance Dashboard**](https://github.com/baris2828/predictive-maintenance-dashboard) | 87,600-row sensor simulation for a German factory with Power BI Key Influencers analysis | Python, Power BI, DAX |
-| [**Real-Time Analytics Dashboard**](https://github.com/baris2828/real-time-analytics-dashboard) | Full-stack live dashboard with auto-refreshing charts, KPI cards & dark/teal UI | FastAPI, Chart.js, WebSocket |
 
 
 ---
