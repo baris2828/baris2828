@@ -84,6 +84,7 @@ A selection of work spanning machine learning, cloud services, and data visualiz
 | Project | Description | Stack |
 |---|---|---|
 | [**ConsultIQ**](https://github.com/baris2828/ConsultIQ) | Business-development cockpit for German IT consultancies — unsupervised ML builds ICPs & prioritises B2B leads · [▶ Live Demo](https://consultiq.streamlit.app/) | Streamlit, scikit-learn, Plotly, Pydeck |
+| [**muda-audit**](https://github.com/baris2828/muda-audit) | Lean waste-audit CLI — maps the shopfloor's seven wastes onto codebases, with Pareto prioritisation, a CI quality gate (self-audit score 0) & an optional AI sensei with offline fallback. "Subtract before you automate" as a runnable tool · [📦 PyPI](https://pypi.org/project/muda-audit/): `pipx install muda-audit` | Python, Typer, Rich |
 | [**K-Means 3D Visualizer**](https://github.com/baris2828/kmeans-3d-visualizer) | Interactive 2D/3D clustering explorer with CSV upload, Elbow method & Silhouette scoring | Streamlit, Plotly, Scikit-Learn |
 | [**CLT Real-World Analysis**](https://github.com/baris2828/CLT-Real-World-Analysis) | Central Limit Theorem simulation on e-commerce transaction data with 2x2 statistical dashboard | NumPy, SciPy, Seaborn |
 | [**Haemorasis Reliability Eval**](https://github.com/baris2828/haemorasis-benchmark-framework) | Evaluation framework for AI blood-cell analysis — Wilson CIs & Monte Carlo benchmarks at n=10,000 vs n=100 | SciPy, Matplotlib, Pillow |
